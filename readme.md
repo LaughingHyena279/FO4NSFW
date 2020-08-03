@@ -58,7 +58,8 @@ Place the modlist file into a new folder (example: D:\Wabbajack\downloaded_mod_l
 - If you have an Ultrawide monitor, enable the TruBy9 UltraWide Fallout 4 and DEF_INV compatibility fix patches to fix issues with UI scaling
 - If you are running Fallout 4 over 60 FPS and have issues with the game physics, make sure to lock your FPS.
 
-That’s almost it! Launch Mod Organizer 2 inside the FO4NSFW folder. From now on, launch Fallout 4 via the “F4SE” option.
+*That’s almost it!* Launch Mod Organizer 2 inside the FO4NSFW folder. 
+From now on, launch Fallout 4 via the “F4SE” option.
 If you want to avoid the hassle of future updates from Bethesda, open Steam, right-click Fallout 4 in your Library, open Properties, 
 go to the Updates tab, and change the Automatic Update option to “Only update this game when I launch it.” 
 Make sure Steam is launched and logged in before launching Fo4 with F4SE or else Steam will launch the native way and force an update should there be one available. 
