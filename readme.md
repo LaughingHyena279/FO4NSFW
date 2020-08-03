@@ -23,7 +23,7 @@ Pirated games and mods are not supported
 - Current build version of Wabbajack. This can be found on the Wabbajack Discord linked above.
 - Clean install of Fallout 4, with all DLCs **except** HD DLC. Non-negotiable.
 - A Nexusmods account. Premium is highly recommended for automatic download support.
-- 73 Gb of space. 32 Gb for the downloads folder, and 41 Gb for the actual install.
+- 142 Gb of space. 60 Gb for the downloads folder, and 82 Gb for the actual install.
 - A graphics card with at LEAST 6Gb VRAM is recommended, but a card with 3-4Gb can still use this list, with lower graphical settings.
 
 ## Game Preparations
