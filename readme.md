@@ -66,24 +66,24 @@ Make sure Steam is launched and logged in before launching Fo4 with F4SE or else
 Since we’re always launching from F4SE, it will never automatically update again should you do as I have just instructed.
 
 
-## In-Game Configuration
+## In-Game Configuration - MCM
 
 The MCG Menu will come up before creating your character. Click the option to start the mod now. 
 After creating your character, wait for all messages to stop appearing in the top left corner, and open the Mod Configuration Menu and apply these settings:
 
-AAF Sex ‘Em Up
+*AAF Sex ‘Em Up*
 - Hotkeys
   - Set Sex ‘Em Up Active Hotkey
   - Set Sex ‘Em Up Passive Hotkey
   
-FO4HHS
+*FO4HHS*
 - Settings
   - Enable Dynamic Camera - On
 - Hardship
   - Set Beggar/Whore mode hotkey
   - Suck for smokes dialogue - On
 
-Magno CUM Gaudio
+*Magno CUM Gaudio*
 - [4] Npc initiative system
 	-Harassment Scenario
     - DD Harassment - On
@@ -96,25 +96,25 @@ Magno CUM Gaudio
 - [7] Hotkeys and Widgets
   - Set Main MCG Hotkey
 
-Q. M. W (Quick Modification Weapon
+*Q. M. W (Quick Modification Weapon*
 - Q.M.W Toggle Key - Set hotkey
 - Display scale - Set to monitor scaling
 
 
-RSEII: CSA
+*RSEII: CSA*
 	- CSA: Surrender
     - Surrender Type - HotKey
     - Surrender HotKey - DO NOT USE - Conflicts with MCG
-	-CSA: Abductions
+	- CSA: Abductions
     - Player Abduction Enabled - On
     - Real Handcuffs Integration - On
     - Raider Pet Integration - On
 
-Tats After Rape
+*Tats After Rape*
 - Enable Tattoo After Rape - On (Optional)
 
-Now, we still have a little bit of work left to do, but we’re almost done. 
-Now we can launch the game. 
+## In-Game Configuration - Ingame
+
 Once you finish MCM setup, you’ll have three options when you try to leave.
 
 - This is a dream: You will wake up in Vault 111. Nora is not your wife. Codsworth is not your robot. You’re just a random Pre-war Sanctuary citizen.
