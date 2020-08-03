@@ -97,7 +97,7 @@ After creating your character, wait for all messages to stop appearing in the to
 - [7] Hotkeys and Widgets
   - Set Main MCG Hotkey
 
-**Q. M. W (Quick Modification Weapon**
+**Q. M. W (Quick Modification Weapon)**
 - Q.M.W Toggle Key - Set hotkey
 - Display scale - Set to monitor scaling
 
