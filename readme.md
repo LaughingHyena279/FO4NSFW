@@ -12,6 +12,7 @@
 <td><a href="https://discord.gg/wabbajack">Wabblejack</a></td>
 </tr>
 </table>
+
 #### Do not contact mod authors directly for support.
 
 All support must be directed to the relevant discussion channel on the Hyena's Den Discord or through any provided means of contact above.  
