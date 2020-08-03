@@ -58,7 +58,7 @@ Place the modlist file into a new folder (example: D:\Wabbajack\downloaded_mod_l
 - If you have an Ultrawide monitor, enable the TruBy9 UltraWide Fallout 4 and DEF_INV compatibility fix patches to fix issues with UI scaling
 - If you are running Fallout 4 over 60 FPS and have issues with the game physics, make sure to lock your FPS.
 
-*That’s almost it!* Launch Mod Organizer 2 inside the FO4NSFW folder. <br>
+**That’s almost it!** Launch Mod Organizer 2 inside the FO4NSFW folder. <br>
 From now on, launch Fallout 4 via the “F4SE” option. <br>
 If you want to avoid the hassle of future updates from Bethesda, open Steam, right-click Fallout 4 in your Library, open Properties,  <br>
 go to the Updates tab, and change the Automatic Update option to “Only update this game when I launch it.”  <br>
@@ -72,19 +72,19 @@ The MCG Menu will come up before creating your character. Click the option to st
 
 After creating your character, wait for all messages to stop appearing in the top left corner, and open the Mod Configuration Menu and apply these settings:
 
-*AAF Sex ‘Em Up*
+**AAF Sex ‘Em Up**
 - Hotkeys
   - Set Sex ‘Em Up Active Hotkey
   - Set Sex ‘Em Up Passive Hotkey
   
-*FO4HHS*
+**FO4HHS**
 - Settings
   - Enable Dynamic Camera - On
 - Hardship
   - Set Beggar/Whore mode hotkey
   - Suck for smokes dialogue - On
 
-*Magno CUM Gaudio*
+**Magno CUM Gaudio**
 - [4] Npc initiative system
 	-Harassment Scenario
     - DD Harassment - On
@@ -97,12 +97,12 @@ After creating your character, wait for all messages to stop appearing in the to
 - [7] Hotkeys and Widgets
   - Set Main MCG Hotkey
 
-*Q. M. W (Quick Modification Weapon*
+**Q. M. W (Quick Modification Weapon**
 - Q.M.W Toggle Key - Set hotkey
 - Display scale - Set to monitor scaling
 
 
-*RSEII: CSA*
+**RSEII: CSA**
 	- CSA: Surrender
     - Surrender Type - HotKey
     - Surrender HotKey - DO NOT USE - Conflicts with MCG
@@ -111,7 +111,7 @@ After creating your character, wait for all messages to stop appearing in the to
     - Real Handcuffs Integration - On
     - Raider Pet Integration - On
 
-*Tats After Rape*
+**Tats After Rape**
 - Enable Tattoo After Rape - On (Optional)
 
 ## In-Game Configuration - Ingame
