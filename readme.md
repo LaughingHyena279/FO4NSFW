@@ -59,11 +59,11 @@ Place the modlist file into a new folder (example: D:\Wabbajack\downloaded_mod_l
 - If you are running Fallout 4 over 60 FPS and have issues with the game physics, make sure to lock your FPS.
 
 *That’s almost it!* Launch Mod Organizer 2 inside the FO4NSFW folder. <br>
-From now on, launch Fallout 4 via the “F4SE” option.
-If you want to avoid the hassle of future updates from Bethesda, open Steam, right-click Fallout 4 in your Library, open Properties, 
-go to the Updates tab, and change the Automatic Update option to “Only update this game when I launch it.” 
-Make sure Steam is launched and logged in before launching Fo4 with F4SE or else Steam will launch the native way and force an update should there be one available. 
-Since we’re always launching from F4SE, it will never automatically update again should you do as I have just instructed.
+From now on, launch Fallout 4 via the “F4SE” option. <br>
+If you want to avoid the hassle of future updates from Bethesda, open Steam, right-click Fallout 4 in your Library, open Properties,  <br>
+go to the Updates tab, and change the Automatic Update option to “Only update this game when I launch it.”  <br>
+Make sure Steam is launched and logged in before launching Fo4 with F4SE or else Steam will launch the native way and force an update should there be one available.  <br>
+Since we’re always launching from F4SE, it will never automatically update again should you do as I have just instructed. <br>
 
 
 ## In-Game Configuration - MCM
@@ -126,20 +126,16 @@ I HIGHLY recommend you read the MCG Guide found <a href="https://www.loverslab.c
 
 Otherwise, it will be very confusing.
 
-To start MCG, press and hold the Main MCG Hotkey for a couple seconds, then release. 
-
-Scroll down, and select ‘Start Npc Initiative System.’ 
-
-The menu will then close. 
-
+To start MCG, press and hold the Main MCG Hotkey for a couple seconds, then release.  <br>
+Scroll down, and select ‘Start Npc Initiative System.’  <br>
+The menu will then close.  <br>
 Wait until the messages stop appearing in the top left of your screen, then do the same for ‘Start Npc random sex system’ and ‘Start Player Defeat System’
 
-Also, if you want to play in a raider/ghoul/synth wasteland with no main quest, FO4-76 is included. Open the holotape after leaving the vault to initiate it.
+Also, if you want to play in a raider/ghoul/synth wasteland with no main quest, FO4-76 is included.  <br>
+Open the holotape after leaving the vault to initiate it.
 
 
 A MASSIVE thanks to everyone who supports me on Patreon! I greatly appreciate your support!
-
-
 
 ## Changelog
 #### 0.0.1 - Initial Release
