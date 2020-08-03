@@ -59,16 +59,22 @@ Place the modlist file into a new folder (example: D:\Wabbajack\downloaded_mod_l
 - If you are running Fallout 4 over 60 FPS and have issues with the game physics, make sure to lock your FPS.
 
 *That’s almost it!* Launch Mod Organizer 2 inside the FO4NSFW folder. 
+
 From now on, launch Fallout 4 via the “F4SE” option.
+
 If you want to avoid the hassle of future updates from Bethesda, open Steam, right-click Fallout 4 in your Library, open Properties, 
+
 go to the Updates tab, and change the Automatic Update option to “Only update this game when I launch it.” 
+
 Make sure Steam is launched and logged in before launching Fo4 with F4SE or else Steam will launch the native way and force an update should there be one available. 
+
 Since we’re always launching from F4SE, it will never automatically update again should you do as I have just instructed.
 
 
 ## In-Game Configuration - MCM
 
-The MCG Menu will come up before creating your character. Click the option to start the mod now. 
+The MCG Menu will come up before creating your character. Click the option to start the mod now.
+
 After creating your character, wait for all messages to stop appearing in the top left corner, and open the Mod Configuration Menu and apply these settings:
 
 *AAF Sex ‘Em Up*
@@ -122,11 +128,15 @@ Once you finish MCM setup, you’ll have three options when you try to leave.
 - This is a memory, stay here a while: Vanilla Fallout 4 intro.
 
 I HIGHLY recommend you read the MCG Guide found <a href="https://www.loverslab.com/topic/119951-aaf-mcg-extended-social-interactions/?tab=comments#comment-2579591">Here</a> so you can understand how the mod works. 
+
 Otherwise, it will be very confusing.
 
 To start MCG, press and hold the Main MCG Hotkey for a couple seconds, then release. 
+
 Scroll down, and select ‘Start Npc Initiative System.’ 
+
 The menu will then close. 
+
 Wait until the messages stop appearing in the top left of your screen, then do the same for ‘Start Npc random sex system’ and ‘Start Player Defeat System’
 
 Also, if you want to play in a raider/ghoul/synth wasteland with no main quest, FO4-76 is included. Open the holotape after leaving the vault to initiate it.
