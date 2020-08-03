@@ -5,7 +5,7 @@
 <table stlyle="border: none;">
 <tr>
 <td><img src="https://github.com/LaughingHyena279/boston-cream-pie/blob/master/images/image_3.png?raw=true" width="64px" /></td>
-<td><a href="https://discord.gg/TFahj9n">Boston Cream Pie</a></td>
+<td><a href="https://discord.gg/TFahj9n">Laughing Hyena</a></td>
 </tr>
 <tr>
 <td><img src="https://github.com/LaughingHyena279/boston-cream-pie/blob/master/images/image_4.png?raw=true" width="64px" /></td>
