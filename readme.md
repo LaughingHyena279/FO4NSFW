@@ -103,13 +103,13 @@ After creating your character, wait for all messages to stop appearing in the to
 
 
 **RSEII: CSA**
-	- CSA: Surrender
-    - Surrender Type - HotKey
-    - Surrender HotKey - DO NOT USE - Conflicts with MCG
-	- CSA: Abductions
-    - Player Abduction Enabled - On
-    - Real Handcuffs Integration - On
-    - Raider Pet Integration - On
+- CSA: Surrender
+  - Surrender Type - HotKey
+  - Surrender HotKey - DO NOT USE - Conflicts with MCG
+- CSA: Abductions
+  - Player Abduction Enabled - On
+  - Real Handcuffs Integration - On
+  - Raider Pet Integration - On
 
 **Tats After Rape**
 - Enable Tattoo After Rape - On (Optional)
