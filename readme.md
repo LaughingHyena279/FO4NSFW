@@ -136,6 +136,3 @@ Open the holotape after leaving the vault to initiate it.
 
 
 A MASSIVE thanks to everyone who supports me on Patreon! I greatly appreciate your support!
-
-## Changelog
-#### 0.0.1 - Initial Release
