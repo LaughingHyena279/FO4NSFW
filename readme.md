@@ -1,4 +1,4 @@
-# Unnamed Fallout 4 NSFW List
+# Devil's Food Cake
 
 ## Support Discords
 
@@ -35,11 +35,11 @@ Once Fallout 4 is installed, make sure you run it once. (Get to the Fallout 4 sp
 1. Download the latest version of Wabbajack.
 2. Create a new folder at the root of a drive (Example: D:\Wabbajack).
 3. Place the Wabbajack.exe into this new folder.
-4. Download the newest FO4 NSFW List file from the NSFW Mod DIscussion chanel.
+4. Download the newest Devil's Food Cake file from the NSFW Mod Discussion chanel.
 Place the modlist file into a new folder (example: D:\Wabbajack\downloaded_mod_lists)
 5. Launch Wabbajack.exe
 6. Select "Install a Modlist"
-7. Choose the FO4NSFW.wabbajack file you just downloaded.
+7. Choose the devilsfoodcake.wabbajack file you just downloaded.
 8. In “Installation Location” choose a blank folder at the root of a drive (example: D:\Wasteland Survival). This location CANNOT be where you have the Wabbajack.exe located.
 10. The "Download Location" will update automatically. You can change it if you wish.
 11. Click the "Play" arrow.
