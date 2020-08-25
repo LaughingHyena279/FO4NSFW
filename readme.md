@@ -96,6 +96,7 @@ After creating your character, wait for all messages to stop appearing in the to
     - Abductions After Harassment - On
 - [7] Hotkeys and Widgets
   - Set Main MCG Hotkey
+  - Set Options for MCG Hotkey
 
 **Q. M. W (Quick Modification Weapon)**
 - Q.M.W Toggle Key - Set hotkey
@@ -126,7 +127,7 @@ I HIGHLY recommend you read the MCG Guide found <a href="https://www.loverslab.c
 
 Otherwise, it will be very confusing.
 
-To start MCG, press and hold the Main MCG Hotkey for a couple seconds, then release.  <br>
+To start MCG, press and hold the Options for MCG Hotkey for a couple seconds, then release.  <br>
 Scroll down, and select ‘Start Npc Initiative System.’  <br>
 The menu will then close.  <br>
 Wait until the messages stop appearing in the top left of your screen, then do the same for ‘Start Npc random sex system’ and ‘Start Player Defeat System’
