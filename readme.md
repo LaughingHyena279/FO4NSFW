@@ -120,3 +120,7 @@ Wait until the messages stop appearing in the top left of your screen, then do t
 
 
 A MASSIVE thanks to everyone who supports me on Patreon! I greatly appreciate your support!
+
+## ATTENTION
+
+cacophony here with a final message. **NONE** of the armors or weapons that are supposed to be on the chemistry workbench are there. They have been given appropriate requirements and moved to the appropriate bench (armor for armor, weapon for weapon).
