@@ -1,22 +1,13 @@
 # Devil's Food Cake
 
-## Support Discords
-
-<table stlyle="border: none;">
-<tr>
-<td><img src="https://github.com/LaughingHyena279/boston-cream-pie/blob/master/images/image_4.png?raw=true" width="64px" /></td>
-<td><a href="https://discord.gg/wabbajack">Wabbajack</a></td>
-</tr>
-</table>
-
 #### Do not contact mod authors directly for support.
 
-All support must be directed to the relevant discussion channel on the Hyena's Den Discord or through any provided means of contact above.  
+All support must be directed to the relevant discussion channel on the Wabbajack Discord server.  
 Pirated games and mods are not supported
 
 ## Requirements before installing
 
-- Current build version of Wabbajack. This can be found on the Wabbajack Discord linked above.
+- Current build version of Wabbajack. This can be found from [the Wabbajack website](https://www.wabbajack.org)
 - Clean install of Fallout 4, with all DLCs **except** HD DLC. Non-negotiable.
 - A Nexusmods account. Premium is highly recommended for automatic download support.
 - 142 Gb of space. 60 Gb for the downloads folder, and 82 Gb for the actual install.
@@ -126,9 +117,6 @@ To start MCG, press and hold the Options for MCG Hotkey for a couple seconds, th
 Scroll down, and select ‘Start Npc Initiative System.’  <br>
 The menu will then close.  <br>
 Wait until the messages stop appearing in the top left of your screen, then do the same for ‘Start Npc random sex system’ and ‘Start Player Defeat System’
-
-Also, if you want to play in a raider/ghoul/synth wasteland with no main quest, FO4-76 is included.  <br>
-Open the holotape after leaving the vault to initiate it.
 
 
 A MASSIVE thanks to everyone who supports me on Patreon! I greatly appreciate your support!
